@@ -1,0 +1,9 @@
+name: SitAndLay
+version: '${project.version}'
+main: com.namu.suram.sitandlay.SitAndLay
+api-version: 1.17
+
+commands:
+  fly:
+
+
